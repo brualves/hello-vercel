@@ -1,5 +1,5 @@
 function Home(){
- return <div>Home auto</div>
+ return <div>Home next deployment</div>
 }
 
 export default Home
