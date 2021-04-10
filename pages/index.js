@@ -1,5 +1,5 @@
 function Home(){
- return <div>Home next deployment</div>
+ return <div>Home New feature</div>
 }
 
 export default Home
